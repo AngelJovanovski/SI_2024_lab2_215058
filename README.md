@@ -6,7 +6,7 @@
 
 ## Control Flow Graph (CFG)
 
-![Control Flow Graph](https://drive.google.com/file/d/1TurzTpUnLDoLMfsfMlKRe7XQ8aUwkA_Z/view?usp=sharing)
+![Control Flow Graph](https://drive.google.com/uc?export=download&id=1TurzTpUnLDoLMfsfMlKRe7XQ8aUwkA_Z)
 
 ## Cyclomatic Complexity Calculation
 
